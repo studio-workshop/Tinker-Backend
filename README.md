@@ -1,7 +1,3 @@
-Here’s a rewritten version of your **Discord Bot Backend** README, adapted to match the tone, structure, and style of your **Tinker** README:
-
----
-
 # Tinker-Backend
 
 **Tinker-Backend** is the open-sourced API powering [Tinker](https://github.com/studio-workshop/Tinker).
